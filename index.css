@@ -1,13 +1,29 @@
+.body-container{
+    background-image: url("i.jpg");
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .navbar-expand-lg{
     background-color: black;
     color: blue;
 }
 
 .navbar-brand{
-    color: blue;
+    color: black;
 }
 
 .dropdown-menu a{
-    color: yellow;
+    color: brown;
 
 }
+
+.navbar{
+    opacity: 0.6;
+}
+ .navbar-expand-lg{
+    opacity: 0.7px;
+    border-radius: 12px;
+ }
