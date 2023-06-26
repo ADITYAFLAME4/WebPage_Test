@@ -1,0 +1,13 @@
+.navbar-expand-lg{
+    background-color: black;
+    color: blue;
+}
+
+.navbar-brand{
+    color: blue;
+}
+
+.dropdown-menu a{
+    color: yellow;
+
+}
